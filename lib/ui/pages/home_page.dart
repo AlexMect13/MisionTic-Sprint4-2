@@ -30,7 +30,7 @@ class HomePage extends StatelessWidget {
         "Kilcoole, Waterford",
         style: TextStyle(
             fontSize: 18.0,
-            color: Colors.black,
+            color: Colors.black38,
             letterSpacing: 2.0,
             fontWeight: FontWeight.w300),
       ),
